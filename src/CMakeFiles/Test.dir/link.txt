@@ -1,0 +1,2 @@
+/usr/bin/ar cr libTest.a  CMakeFiles/Test.dir/vector1.cpp.o CMakeFiles/Test.dir/text1.cpp.o CMakeFiles/Test.dir/vector2.cpp.o CMakeFiles/Test.dir/text2.cpp.o
+/usr/bin/ranlib libTest.a

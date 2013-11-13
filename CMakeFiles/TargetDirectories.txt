@@ -1,0 +1,2 @@
+/home/qingliu/helloworld/src/CMakeFiles/Test.dir
+/home/qingliu/helloworld/CMakeFiles/main.dir
